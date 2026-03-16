@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Shirish 👋
 
-<!--
-**ShirishDawadi/ShirishDawadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile App Developer from Nepal 🇳🇵 passionate about building real-world applications that ship to actual users.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Mobile:** Flutter, Dart, Java, Android SDK
+- **Backend:** FastAPI, Python
+- **Database:** Firebase, Firestore, PostgreSQL, Supabase
+- **Tools:** Git, Figma, Postman, Android Studio, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📱 Projects
+- **[Artisan](https://github.com/ShirishDawadi/Artisan)** — Full-featured Android marketplace with eSewa payment, recommendation system, admin panel
+- **[Daily Bloom](https://github.com/ShirishDawadi/DailyBloom)** — Home screen widget with WorkManager background scheduling
+- **[Polaroid Journal](https://github.com/ShirishDawadi/Polaroid_Journal)** — Creative scrapbook Flutter app in development
+- **Conquest** — Daily quest walking app with ML object detection and GPS explorer map (in development)
+
+## 📫 Contact
+- Email: shirishdawadi1@gmail.com
